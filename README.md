@@ -2,7 +2,7 @@
 
 I'm a member of "Digital Creators Club traP".
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FujishigeTemma&hide=html)
+[![trophy](https://github-profile-trophy.vercel.app/?username=)](https://github.com/ryo-ma/github-profile-trophy)
 ![temma's github stats](https://github-readme-stats.vercel.app/api?username=FujishigeTemma&show_icons=true&count_private=true&line_height=40)
 
 <!--
