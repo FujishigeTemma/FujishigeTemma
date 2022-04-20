@@ -1,10 +1,9 @@
-### Hi there 👋 
+### Hi there 👋
 
-I'm temma, a member of "Digital Creators Club traP".
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FujishigeTemma)](https://github.com/ryo-ma/github-profile-trophy)
-![temma's github stats](https://github-readme-stats.vercel.app/api?username=FujishigeTemma&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
-<!--** ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FujishigeTemma&hide=html,C,Makefile&layout=compact) -->
+<div>
+  <img src="https://github.com/FujishigeTemma/FujishigeTemma/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/FujishigeTemma/FujishigeTemma/blob/main/metrics2.svg" width="48%" />
+</div>
 
 <!--
 **FujishigeTemma/FujishigeTemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
