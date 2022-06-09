@@ -1175,7 +1175,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.41666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.93333333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1197,7 +1197,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 435 times</div>
+                                <div class="text">Repositories have been deployed 436 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1506,7 +1506,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 939k out of 312m repositories</span>
+                                    <span class="gh">ranked 939k out of 313m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 18 stars</div>
                             </div>
@@ -1552,7 +1552,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.74m out of 312m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 313m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
