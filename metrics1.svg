@@ -188,7 +188,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="197.23326012249868" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="197.23326012249868" y="0" width="160.03283878946831" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.266098911967" y="0" width="53.749263956200345" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="357.266098911967" y="0" width="53.749263956200345" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="411.01536286816736" y="0" width="28.637295182480685" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="439.65265805064803" y="0" width="20.34734194935197" height="8" fill="#427819"/>
                 </svg>
@@ -209,7 +209,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2022, 18:17:06 (timezone Asia/Tokyo) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 21:36:05 (timezone Asia/Tokyo) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
